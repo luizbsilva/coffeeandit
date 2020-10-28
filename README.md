@@ -1,5 +1,5 @@
 # Curso CoffeeAndIT
-> Atividades realizadas para a realização dos sequintes cursos
+> Esse repository contém o roteiro de estudos dos cursos relacionados abaixo ministrados pela CoffeeAndIT
 
 ## Cursos Realizados
 ### Microsserviços - Do Zero à Produção
