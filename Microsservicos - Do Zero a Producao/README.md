@@ -2,6 +2,11 @@
 > Conteúdo das Atividades realizadas durante a realização do crso
 
 ## Conteúdo Programático;
+- [✔] Preparando Ambiente e Boas Vindas;
+    - [✔] Instruções para utilização do repositório Gitlab;
+    - [✔] Endereço da Aplicação BFF;
+    - [✔] Livros de Apoio;
+    - [✔] Avisos;
 - [ ] MÓDULO 1;
     - [ ] Entendendo Microservices;
         - Caracteristicas;
