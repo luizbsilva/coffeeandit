@@ -21,11 +21,11 @@
 
 #### Benefícios
    * Desacoplamento
-    * Integrações inteligentes, flexibilidade, alinhamento com negócio;   
+       * Integrações inteligentes, flexibilidade, alinhamento com negócio;      
    * Reutilização de serviços
-    * Produtividade, manutenibilidade; 
+       * Produtividade, manutenibilidade; 
    * Infraestrutura de plataforma
-    * Padronização corporativo (Log, Governança, etc.)
+       * Padronização corporativo (Log, Governança, etc.)
 
 > - Acesso ao Manifesto _[SOA][soa]._
 
