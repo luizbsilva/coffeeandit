@@ -1,10 +1,10 @@
 # Livros de Apoio
 
-> - [Clean Architecture][cleanArchitecture]._
-> - [Clean Code][cleanCode]._
-> - [Effective Java][effectiveJava]._
-> - [Migrating to Microservices Databases][migratingToMicroservicesDatabases]._
-> - [Microsserviços versus SOA][microsserviçosVersusSOA]._
+> - _[Clean Architecture][cleanArchitecture]._
+> - _[Clean Code][cleanCode]._
+> - _[Effective Java][effectiveJava]._
+> - _[Migrating to Microservices Databases][migratingToMicroservicesDatabases]._
+> - _[Microsserviços versus SOA][microsserviçosVersusSOA]._
 
 
 [cleanArchitecture]:https://drive.google.com/file/d/1tc1SKVVOlcdG8bolUXXboKE5IAUc9n2S/view?usp=sharing
