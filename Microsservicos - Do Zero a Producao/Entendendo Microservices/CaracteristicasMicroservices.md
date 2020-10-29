@@ -48,7 +48,7 @@
 
 ### Capabilities
 
-   ![](/images/capabilities.png)
+   ![](images/capabilities.png)
 
 ## Importante
 > 'Everything Fails All the Time' Werner Vogels CTO / VP - Amazon
