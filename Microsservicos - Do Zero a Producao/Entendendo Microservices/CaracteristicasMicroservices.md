@@ -31,7 +31,7 @@
    * Combinação de tecnologias
        * Times podem ser multidisciplinares em tecnologias para desenvolver os microsserviços.
 
-> A arquitetura de micro-serviços coloca cada elemento de funcionalidade em um servio separado...
+> A arquitetura de micro-serviços coloca cada elemento de funcionalidade em um serviço separado...
 > ...e escala distribuindo os serviços entre servidores, replicando por demanda.       
 
 ### Práticas recomendadas
