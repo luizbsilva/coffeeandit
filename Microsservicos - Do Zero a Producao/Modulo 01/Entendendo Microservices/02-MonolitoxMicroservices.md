@@ -10,7 +10,6 @@
    * Apenas um deploy
    * Tráfego de rede baixo
 
-
 ### Problemas de um monolito
    * Aumento de complexidade e tamanho ao longo do tempo
    * Alta dependência de componentes de código
