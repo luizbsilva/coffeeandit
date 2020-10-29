@@ -10,7 +10,7 @@
     * Não é uma metodologia
     * Não é uma solução de negócio  
 
-#### O que é?;
+#### O que é?
    > Service-Oriented Architecture.
    > SOA é uma abordagem arquitetural corporativa que permite a criação de serviços de negócio interoperáveis que podem ser facilmente reutilizados e compartilhados entre aplicações e empresas
 
