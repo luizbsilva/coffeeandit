@@ -54,11 +54,11 @@
 > 'Everything Fails All the Time' Werner Vogels CTO / VP - Amazon
 
 ### Falácias
-   * The network is reliable
-   * Latency is zero
-   * Bandwidth is infinite
-   * The network is secure
-   * Topology doesn't change
-   * There is one administrator
-   * Transport cost is zero
-   * The network is homogeneous 
+   * The network is reliable (A rede é confiável)
+   * Latency is zero (Latência é zero)
+   * Bandwidth is infinite (A largura de banda é infinita)
+   * The network is secure (A rede é segura)
+   * Topology doesn't change (Topologia não muda)
+   * There is one administrator (Existe um administrador)
+   * Transport cost is zero (Custo de transporte é zero)
+   * The network is homogeneous (A rede é homogênea)
