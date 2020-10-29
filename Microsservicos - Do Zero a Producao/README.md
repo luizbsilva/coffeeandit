@@ -7,11 +7,11 @@
     - [✔] Endereço da Aplicação BFF;
     - [✔] Livros de Apoio;
     - [✔] Avisos;
-- [ ] MÓDULO 1;
-    - [ ] Entendendo Microservices;
-        - Caracteristicas;
-        - SOA;
-        - Design Patterns de Microservices;
+- [✔] MÓDULO 1;
+    - [✔] Entendendo Microservices;
+        - ✔ Caracteristicas;
+        - ✔ SOA;
+        - ✔ Design Patterns de Microservices;
 
     - [ ] APIs;
         - Design;

@@ -13,7 +13,7 @@
 ### Microsserviços - Do Zero à Produção
 #### Conteúdo Programático;
     - [ ] MÓDULO 1;
-        - [ ] Entendendo Microservices;
+        - [✔] Entendendo Microservices;
         - [ ] APIs;
         - [ ] Cloud Native;
         - [ ] Cloud Native Maurity Model;

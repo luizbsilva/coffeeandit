@@ -4,5 +4,6 @@
 - ✔ SOA;
 - ✔ Monolito x Microservices;
 - ✔ Características de Microsserviços;
-- Design Patterns;
-- Material Complementar - Exemplos e Padrões de Arquitetura SOA;
+- ✔  Design Patterns;
+- ✔  Material Complementar - Exemplos e Padrões de Arquitetura SOA;
+- ✔  Avaliação Módulo - Entendendo Microservices
