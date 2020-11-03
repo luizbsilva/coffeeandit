@@ -4,7 +4,7 @@
 
 - ✔ Características;
 -  ✔ Boas práticas e modelagem avançada de APIs;
-- Swagger e OpenAPI;
-- Versionamento de APIsPágina;
-- HATEOAS e DiscoverabilityPágina;
+-  ✔ Swagger e OpenAPI;
+-  ✔ Versionamento de APIs;
+- HATEOAS e Discoverability;
 - Avaliação Módulo - APIs
