@@ -13,13 +13,13 @@
         - ✔ SOA;
         - ✔ Design Patterns de Microservices;
 
-    - [ ] APIs;
-        - Design;
-        - Boas práticas e modelagem avançada de APIs. - Swagger e OpenAPI;
-        - Protocolos HTTP e Status Code;
-        - Tratamento e modelagem de erros da API;
-        - HATEOAS e Discoverability;
-        - Versionamento de APIs;
+    - [✔] APIs;
+        - ✔ Design;
+        - ✔ Boas práticas e modelagem avançada de APIs. - Swagger e OpenAPI;
+        - ✔ Protocolos HTTP e Status Code;
+        - ✔ Tratamento e modelagem de erros da API;
+        - ✔ HATEOAS e Discoverability;
+        - ✔ Versionamento de APIs;
 
     - [ ] Cloud Native;
         - Características;
