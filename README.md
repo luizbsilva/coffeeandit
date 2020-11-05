@@ -14,7 +14,7 @@
 #### Conteúdo Programático;
     - [ ] MÓDULO 1;
         - [✔] Entendendo Microservices;
-        - [ ] APIs;
+        - [✔] APIs;
         - [ ] Cloud Native;
         - [ ] Cloud Native Maurity Model;
     - [ ] MÓDULO 2;
