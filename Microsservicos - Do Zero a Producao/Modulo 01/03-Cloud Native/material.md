@@ -7,7 +7,4 @@
 > - _[CI/CD][cicd]._
 
 [caracteristicas]:https://drive.google.com/file/d/1a1etEQYl9yZ3_IlTAzvdpTSzUK2caQ5y/view?usp=sharing
-[fatores]:https://drive.google.com/file/d/1dbDVpQCTauFshYWvyWbho5Gk0sWRaQFa/view?usp=sharing
-[iaas]:https://drive.google.com/file/d/1A8UUfb5zTrjjsGisgDdCd1uruTiQgn7i/view?usp=sharing
-[paas]:https://drive.google.com/file/d/1lYXG4jJtBNRIdEgcoxSfLJQzvXDuuMxq/view?usp=sharing
-[cicd]:https://drive.google.com/file/d/1HhreTJ-VKlZrw_Tm08gfeYGNfldYrLmo/view?usp=sharing
+[fatores]:https://drive.google.com/file/d/1I-ce0-WMAV_zCIFApGDb5wmW2MdjdlxS/view?usp=sharing
