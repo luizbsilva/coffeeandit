@@ -38,11 +38,11 @@
 * Princípios
    * Cada commit gera um release candidate
    * Automatize tudo que pode ser automatizado
-   * If it hurts, do it more often and bring the pain forward”
+   * If it hurts, do it more often and bring the pain forward "_Se doer, faça-o com mais frequência e traga a dor para frente_"
    * A qualidade interna é obrigatória
    * Testes automatizados são essenciais
    * Todo mundo é responsável pela release
-   * Pronto significa released
+   * Pronto significa released _DOD e DOR - Definitions of Ready/Definitions of Done_
    * Melhoria Contínua(Continuous Improvement)
 
 > _“Continuous Delivery deixou de ser um diferencial tecnológico para ser uma necessidade dentro das organizações”_
