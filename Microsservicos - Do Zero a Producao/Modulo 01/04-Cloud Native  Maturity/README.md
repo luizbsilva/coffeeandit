@@ -1,7 +1,7 @@
 # Cloud Native Maturity
 > O termo maturidade baseado em cloud native representa a utilização de inúmeros fatores e requisitos essenciais para uma plataforma/microserviço bem sucedida.
 
-- Maturidade em Cloud Native;
+- ✔ Maturidade em Cloud Native;
 - Cloud Ready;
 - Cloud Friendly;
 - Cloud Resilient;
