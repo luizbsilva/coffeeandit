@@ -30,9 +30,9 @@
         - ✔ Containers - Docker;
         - ✔ CI/CD – com GItlab-CI;
 
-    - [ ] Cloud Native Maurity Model;
-        - Cloud Native;
-        - Cloud Resilient - Cloud Friendly - Cloud Ready;
+    - [✔] Cloud Native Maurity Model;
+        - ✔ Cloud Native;
+        - ✔ Cloud Resilient - Cloud Friendly - Cloud Ready;
 
 - [ ] MÓDULO 2;
     - [ ] DDD e Event Storming;
