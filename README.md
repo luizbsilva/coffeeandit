@@ -1,5 +1,5 @@
 # Curso CoffeeAndIT
-> Atividades realizadas para a realização dos sequintes cursos
+> Esse repository contém o roteiro de estudos dos cursos relacionados abaixo ministrados pela CoffeeAndIT
 
 ## Cursos Realizados
 ### Microsserviços - Do Zero à Produção
@@ -13,10 +13,10 @@
 ### Microsserviços - Do Zero à Produção
 #### Conteúdo Programático;
     - [ ] MÓDULO 1;
-        - [ ] Entendendo Microservices;
-        - [ ] APIs;
-        - [ ] Cloud Native;
-        - [ ] Cloud Native Maurity Model;
+        - [✔] Entendendo Microservices;
+        - [✔] APIs;
+        - [✔] Cloud Native;
+        - [✔] Cloud Native Maurity Model;
     - [ ] MÓDULO 2;
         - [ ] DDD e Event Storming;
         - [ ] EDA;
