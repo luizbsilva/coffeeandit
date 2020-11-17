@@ -5,7 +5,6 @@
 >
 > Os resultados definem e descrevem onde você está agora - e mostram para onde ir a partir daqui.
    
-
 > As empresas podem gerar enorme crescimento econômico e valor comercial, fornecendo serviços ou aplicativos baseados na nuvem: Instagram, Uber, WhatsApp, NetFlix, Twitter - e ainda pequenas empresas surpreendentementes (se relacionarmos o número modesto de funcionários dessas empresas em seu crescimento econômico notável) cujos serviços são usados e distribuídos com freqüência com cloud computing. 
 > 
 > No entanto, mesmo um modelo de negócios de crescimento rápido deve ter conseqüências e dependências a longo prazo, por isso maturidade em cloud é fator principal para escalar negócios, arquiteturas e usuários.
