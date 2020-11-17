@@ -15,8 +15,8 @@
     - [ ] MÓDULO 1;
         - [✔] Entendendo Microservices;
         - [✔] APIs;
-        - [ ] Cloud Native;
-        - [ ] Cloud Native Maurity Model;
+        - [✔] Cloud Native;
+        - [✔] Cloud Native Maurity Model;
     - [ ] MÓDULO 2;
         - [ ] DDD e Event Storming;
         - [ ] EDA;
